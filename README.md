@@ -1,8 +1,8 @@
 ## Profil
 | # | Biodata |
 | -------- | --- |
-| **Nama** | Alingga Reandito |
-| **NIM** | 312010276 |
+| **Nama** | Muhammad Safri Satria Permana |
+| **NIM** | 312010337 |
 | **Kelas** | TI.20.A.2 |
 | **Mata Kuliah** | Pemrograman Web |
 
